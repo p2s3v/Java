@@ -1,0 +1,7 @@
+# Java
+Box Pattern pattern
+$$$$
+$  $
+$  $
+$$$$
+
