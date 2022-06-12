@@ -1,7 +1,3 @@
 # Java
-Box Pattern pattern
-$$$$
-$  $
-$  $
-$$$$
+Patterns
 
